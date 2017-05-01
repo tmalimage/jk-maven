@@ -11,7 +11,6 @@ public class App
  
     public static void main( String[] args )
     {		
-    	int;
 		logger.info("Hello World");
         System.out.println( "Hello World!" );
     }
