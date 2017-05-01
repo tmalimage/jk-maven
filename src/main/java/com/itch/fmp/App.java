@@ -13,5 +13,6 @@ public class App
     {		
 		logger.info("Hello World");
 		logger.info("Tharindu Chandika Malimage");
+		logger.info("Sri Lanka");
     }
 }
